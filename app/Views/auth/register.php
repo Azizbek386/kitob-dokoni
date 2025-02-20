@@ -9,6 +9,7 @@
     <input type="password" name="password" required>
     <a href="/auth/login">Login</a>
     <button type="submit">Ro‘yxatdan o‘tish</button>
+
 </form>
 
 
